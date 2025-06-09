@@ -15,14 +15,18 @@ Descomprime los zips "ProyectoFinalEMPRESA" y "BaseDeDatosMySQL"
 - ![img1](imagenes/img1.jpg)
   
 - Si entras como administrador, puedes crear un usuario nuevo, ya sea administrador o cliente
+- ![img1](imagenes/img5.jpg)
 - Te recomendamos crear un nuevo administrador con tu correo electronico, para que puedas probar la funcion de "recuperar contraseña"
  a tu correo
+![img1](imagenes/img6.jpg)
 - El programa tiene cierta permanencia de usuarios asi que no habra problema si cierras el programa y lo abres de nuevo con algun usuario recien registrado
 
 **FUNCIONES**
 ------------------------
 - **Cuenta con cuadros de busqueda por acta y nombres**
+- ![img1](imagenes/img3.jpg)
 - **Campos editables con el click derecho (solo como administrador)**
+- ![img1](imagenes/img4.jpg)
 - **Eliminacion de registros (Solo como administrador)**
 - **Creacion de registros (Solo como administrador)**
 - **Campo para recuperar el usuario y contraseña**
