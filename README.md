@@ -18,7 +18,6 @@ Descomprime los zips "ProyectoFinalEMPRESA" y "BaseDeDatosMySQL"
 - ![img1](imagenes/img5.jpg)
 - Te recomendamos crear un nuevo administrador con tu correo electronico, para que puedas probar la funcion de "recuperar contraseña"
  a tu correo
-![img1](imagenes/img6.jpg)
 - El programa tiene cierta permanencia de usuarios asi que no habra problema si cierras el programa y lo abres de nuevo con algun usuario recien registrado
 
 **FUNCIONES**
@@ -29,8 +28,10 @@ Descomprime los zips "ProyectoFinalEMPRESA" y "BaseDeDatosMySQL"
 - ![img1](imagenes/img4.jpg)
 - **Eliminacion de registros (Solo como administrador)**
 - **Creacion de registros (Solo como administrador)**
+- ![img1](imagenes/img7.jpg)
 - **Campo para recuperar el usuario y contraseña**
 - **Campo para escribir codigo de verificacion y cambiar de contraseña**
+- ![img1](imagenes/img6.jpg)
 
 **Creado por:**
 ------------------------------
