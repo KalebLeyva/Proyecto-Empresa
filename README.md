@@ -10,8 +10,8 @@ Descomprime los zips "ProyectoFinalEMPRESA" y "BaseDeDatosMySQL"
 - **ANTES DE EJECUTAR EL CODIGO DEBERAS HACER CLICK EN CLEAN AND BUILD PARA QUE EL PROGRAMA FUNCIONE SIN FALLAS**
 - Para entrar a la base de datos deberas escribir los correos definidos por default:
 
-- Correo: edmen1847@gmail.com & Contraseña: Nolapierdas3  **CORREO COMO ADMINISTRADOR**
-- Correo: edmen415@gmail.com & Contraseña: Nolapierdas1   **CORREO COMO CLIENTE**
+- **IMPORTANTE** Correo: edmen1847@gmail.com & Contraseña: Nolapierdas3  **CORREO COMO ADMINISTRADOR**
+- **IMPORTANTE**Correo: edmen415@gmail.com & Contraseña: Nolapierdas1   **CORREO COMO CLIENTE**
   
 - Si entras como administrador, puedes crear un usuario nuevo, ya sea administrador o cliente
 - Te recomendamos crear un nuevo administrador con tu correo electronico, para que puedas probar la funcion de "recuperar contraseña"
