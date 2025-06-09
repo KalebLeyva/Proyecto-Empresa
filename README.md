@@ -3,7 +3,7 @@ Creacion de un login para una empresa con bases de datos
 
 Instalacion en Neatbeans
 -------------------------
-Descomprime los zips "ProyectoFinalSU2" y "BaseDeDatosMySQL"
+Descomprime los zips "ProyectoFinalEMPRESA" y "BaseDeDatosMySQL"
 
 **Uso**
 ------------------------
@@ -20,9 +20,18 @@ Descomprime los zips "ProyectoFinalSU2" y "BaseDeDatosMySQL"
 
 **FUNCIONES**
 ------------------------
+- **Cuenta con cuadros de busqueda por acta y nombres**
+- **Campos editables con el click derecho (solo como administrador)**
+- **Eliminacion de registros (Solo como administrador)**
+- **Creacion de registros (Solo como administrador)**
+- **Campo para recuperar el usuario y contraseña**
+- **Campo para escribir codigo de verificacion y cambiar de contraseña**
 
+**Creado por:**
+------------------------------
+- Leyva Solis Kaleb Daniel
+- Mendoza Martinez Eduardo Yael
 
-Creado por:
-
-Leyva Solis Kaleb Daniel
-Mendoza Martinez Eduardo Yael
+**VIDEO DEMOSTRACION**
+--------------------------------
+https://youtu.be/wl_8z8YxDbY?si=cqsGhE5w4jchqE_B
