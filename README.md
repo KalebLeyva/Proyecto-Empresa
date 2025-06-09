@@ -12,6 +12,7 @@ Descomprime los zips "ProyectoFinalEMPRESA" y "BaseDeDatosMySQL"
 
 - **IMPORTANTE** Correo: edmen1847@gmail.com & Contraseña: Nolapierdas3  (**CORREO COMO ADMINISTRADOR**)
 - **IMPORTANTE** Correo: edmen415@gmail.com & Contraseña: Nolapierdas1   (**CORREO COMO CLIENTE**)
+- ![img1](Imagenes/img1.jpg)
   
 - Si entras como administrador, puedes crear un usuario nuevo, ya sea administrador o cliente
 - Te recomendamos crear un nuevo administrador con tu correo electronico, para que puedas probar la funcion de "recuperar contraseña"
